@@ -1,8 +1,8 @@
 import java.util.Scanner;
-public class Q1O {
+public class Q10 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter 3 digit number to reverse it");
+        System.out.println("Enter 3 digit number to reverse it's digits");
         int n=sc.nextInt();
         int revNum=0;
         while(n>0)
