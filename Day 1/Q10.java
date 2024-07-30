@@ -11,6 +11,5 @@ public class Q10 {
             n=n/10;
         }
         System.out.println("Required sum = "+revNum);  
-        sc.close();
         }
 }
